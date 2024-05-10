@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "ACME"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ab7b1f31-f5c7-4e02-b3c4-e46dba3c0403"
+  }
+}
